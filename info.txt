@@ -2,5 +2,9 @@ java
 python
 docker
 devops
+<<<<<<< HEAD
 azure
 aws
+=======
+azure
+>>>>>>> 4e736fe5981e04fc4a382b4b40e4a460d26ddb92
